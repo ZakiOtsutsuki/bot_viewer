@@ -1,0 +1,7 @@
+1593088536035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHVfEXU"
+Gtk-Message: 19:35:36.119: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:35:42.703: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:35:43.453: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:35:48.756: Failed to load module "appmenu-gtk-module"
+1593088550209	Marionette	INFO	Listening on port 45807
+1593088550322	Marionette	WARN	TLS certificate errors will be ignored for this session
