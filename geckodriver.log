@@ -561,3 +561,427 @@ Gtk-Message: 08:15:51.581: Failed to load module "appmenu-gtk-module"
 Gtk-Message: 08:15:59.951: Failed to load module "appmenu-gtk-module"
 1593825361507	Marionette	INFO	Listening on port 36849
 1593825361928	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube.com/yts/jsbin/spf-vflAy7LrU/spf.js, line 22: NS_ERROR_NOT_INITIALIZED: 
+1593825769020	Marionette	INFO	Stopped listening on port 36849
+1593844005696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileta4WNM"
+Gtk-Message: 13:26:45.783: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:26:52.274: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:26:52.923: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:26:57.888: Failed to load module "appmenu-gtk-module"
+1593844018820	Marionette	INFO	Listening on port 39663
+1593844018928	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593844211589	Marionette	INFO	Stopped listening on port 39663
+1593844215205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX9RT22"
+Gtk-Message: 13:30:15.289: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:30:21.875: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:30:22.520: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:30:28.029: Failed to load module "appmenu-gtk-module"
+1593844229149	Marionette	INFO	Listening on port 42765
+1593844229198	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593844436950	Marionette	INFO	Stopped listening on port 42765
+1593844441087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekCSd6n"
+Gtk-Message: 13:34:01.175: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:34:07.582: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:34:08.178: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 13:34:13.699: Failed to load module "appmenu-gtk-module"
+1593844454614	Marionette	INFO	Listening on port 35107
+1593844454688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593844746849	Marionette	INFO	Stopped listening on port 35107
+1593848863528	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7IbYe5"
+Gtk-Message: 14:47:43.612: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:47:50.047: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:47:50.784: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:47:55.798: Failed to load module "appmenu-gtk-module"
+1593848876762	Marionette	INFO	Listening on port 34567
+1593848876839	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593849045811	Marionette	INFO	Stopped listening on port 34567
+1593849145042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelkcCjV"
+Gtk-Message: 14:52:25.126: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:52:31.675: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:52:32.326: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:52:37.510: Failed to load module "appmenu-gtk-module"
+1593849158467	Marionette	INFO	Listening on port 37347
+1593849158533	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593849285441	Marionette	INFO	Stopped listening on port 37347
+1593849288213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegFhDn3"
+Gtk-Message: 14:54:48.299: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:54:54.942: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:54:55.604: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:55:00.661: Failed to load module "appmenu-gtk-module"
+1593849301762	Marionette	INFO	Listening on port 36117
+1593849301854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593849449099	Marionette	INFO	Stopped listening on port 36117
+1593849450586	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepW0oEW"
+Gtk-Message: 14:57:30.670: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:57:37.572: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:57:38.527: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:57:45.842: Failed to load module "appmenu-gtk-module"
+1593849466949	Marionette	INFO	Listening on port 33759
+1593849467210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593849665751	Marionette	INFO	Stopped listening on port 33759
+1593849668955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1tJAIg"
+Gtk-Message: 15:01:09.040: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:01:15.680: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:01:16.362: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:01:21.415: Failed to load module "appmenu-gtk-module"
+1593849682353	Marionette	INFO	Listening on port 32909
+1593849682429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593849761222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQjR5SG"
+Gtk-Message: 15:02:41.327: Failed to load module "appmenu-gtk-module"
+1593849766636	Marionette	INFO	Stopped listening on port 32909
+Gtk-Message: 15:02:50.495: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:02:51.332: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:02:56.960: Failed to load module "appmenu-gtk-module"
+1593849777834	Marionette	INFO	Listening on port 34627
+1593849777896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1593849870549	Marionette	INFO	Stopped listening on port 34627
+1593849871970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0DcgYE"
+Gtk-Message: 15:04:32.057: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:04:39.272: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:04:40.063: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:04:45.137: Failed to load module "appmenu-gtk-module"
+1593849886122	Marionette	INFO	Listening on port 40945
+1593849886218	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1593849949262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKh0rB3"
+Gtk-Message: 15:05:49.349: Failed to load module "appmenu-gtk-module"
+1593849951500	Marionette	INFO	Stopped listening on port 40945
+Gtk-Message: 15:05:57.514: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:05:58.163: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:06:03.237: Failed to load module "appmenu-gtk-module"
+1593849964202	Marionette	INFO	Listening on port 43567
+1593849964323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593850316666	Marionette	INFO	Stopped listening on port 43567
+1593850324289	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileefWr0l"
+Gtk-Message: 15:12:04.395: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:12:10.913: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:12:11.490: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:12:16.578: Failed to load module "appmenu-gtk-module"
+1593850337768	Marionette	INFO	Listening on port 43129
+1593850337810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593850489831	Marionette	INFO	Stopped listening on port 43129
+1593850497492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileix9sRZ"
+Gtk-Message: 15:14:57.581: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:15:04.243: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:15:04.898: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:15:10.358: Failed to load module "appmenu-gtk-module"
+1593850511437	Marionette	INFO	Listening on port 37003
+1593850511575	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Gtk-Message: 15:16:59.335: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:18:19.279: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/455339/46587628/dcm/dcmads.js, line 992: NS_ERROR_NOT_INITIALIZED: 
+1593850704905	Marionette	INFO	Stopped listening on port 37003
+1593850708013	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile82LTIv"
+Gtk-Message: 15:18:28.096: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:18:34.625: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:18:35.322: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:18:40.354: Failed to load module "appmenu-gtk-module"
+1593850721475	Marionette	INFO	Listening on port 35931
+1593850721522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+[Child 9787, MediaDecoderStateMachine #1] WARNING: Decoder=7f5286cd0c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+Gtk-Message: 15:21:47.114: Failed to load module "appmenu-gtk-module"
+1593850909926	Marionette	INFO	Stopped listening on port 35931
+1593850919926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev34PP6"
+Gtk-Message: 15:22:00.012: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:22:06.542: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:22:07.154: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:22:12.309: Failed to load module "appmenu-gtk-module"
+1593850933321	Marionette	INFO	Listening on port 40235
+1593850933402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1593851030808	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593851087533	Marionette	INFO	Stopped listening on port 40235
+1593851087550	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJi0It8"
+Gtk-Message: 15:24:47.774: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:24:53.769: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:24:54.864: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:24:59.967: Failed to load module "appmenu-gtk-module"
+1593851101325	Marionette	INFO	Listening on port 36515
+1593851101400	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593851385685	Marionette	INFO	Stopped listening on port 36515
+1593851725547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevDhndP"
+Gtk-Message: 15:35:25.639: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:35:32.555: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:35:33.232: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:35:38.432: Failed to load module "appmenu-gtk-module"
+1593851739532	Marionette	INFO	Listening on port 35519
+1593851739651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: services.settings: 
+  Message: [Exception... "AddonManager is not initialized"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/AddonManager.jsm :: getAddonsByTypes :: line 2756"  data: no]
+  Stack:
+    getAddonsByTypes@resource://gre/modules/AddonManager.jsm:2756:24
+getAddonsByTypes@resource://gre/modules/AddonManager.jsm:4027:33
+_onUpdate@resource://gre/modules/Blocklist.jsm:1191:37
+observe@resource://gre/modules/AsyncShutdown.jsm:554:16
+
+1593852143574	Marionette	INFO	Stopped listening on port 35519
+1593852147092	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefqvyoV"
+Gtk-Message: 15:42:27.181: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:42:34.076: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:42:34.695: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:42:39.868: Failed to load module "appmenu-gtk-module"
+1593852160920	Marionette	INFO	Listening on port 37183
+1593852161007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1593852294814	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593852473510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezg5ViI"
+Gtk-Message: 15:47:53.649: Failed to load module "appmenu-gtk-module"
+1593852477282	Marionette	INFO	Stopped listening on port 37183
+Gtk-Message: 15:48:02.499: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:48:03.105: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:48:08.121: Failed to load module "appmenu-gtk-module"
+1593852489127	Marionette	INFO	Listening on port 34931
+1593852489196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593852926235	Marionette	INFO	Stopped listening on port 34931
+1593852931855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7ODtPL"
+Gtk-Message: 15:55:31.943: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:55:38.568: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:55:39.155: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:55:44.581: Failed to load module "appmenu-gtk-module"
+1593852945827	Marionette	INFO	Listening on port 35337
+1593852945893	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1593853084294	Marionette	INFO	Stopped listening on port 35337
+1593853086100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecFJoVU"
+Gtk-Message: 15:58:06.186: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:58:12.821: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:58:13.488: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:58:18.631: Failed to load module "appmenu-gtk-module"
+1593853099716	Marionette	INFO	Listening on port 33075
+1593853099805	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593853286615	Marionette	INFO	Stopped listening on port 33075
+1593853592677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezVFN1a"
+Gtk-Message: 16:06:32.763: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:06:39.203: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:06:39.838: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:06:44.819: Failed to load module "appmenu-gtk-module"
+1593853605939	Marionette	INFO	Listening on port 45157
+1593853605986	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593853708107	Marionette	INFO	Stopped listening on port 45157
+1593853824625	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXsJMFR"
+Gtk-Message: 16:10:24.708: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:10:31.097: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:10:31.771: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:10:36.663: Failed to load module "appmenu-gtk-module"
+1593853837677	Marionette	INFO	Listening on port 35095
+1593853837740	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 19: TypeError: browser is null
+JavaScript error: https://www.youtube.com/yts/jsbin/spf-vflAy7LrU/spf.js, line 22: NS_ERROR_NOT_INITIALIZED: 
+Gtk-Message: 16:12:40.335: Failed to load module "appmenu-gtk-module"
+1593853965911	Marionette	INFO	Stopped listening on port 35095
+1593855845537	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletp1Rk2"
+Gtk-Message: 16:44:05.741: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:44:13.456: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:44:14.668: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:44:19.609: Failed to load module "appmenu-gtk-module"
+1593855861832	Marionette	INFO	Listening on port 39771
+1593855861873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593856586741	Marionette	INFO	Stopped listening on port 39771
+1593856588731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBEmYmB"
+Gtk-Message: 16:56:28.814: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:56:35.247: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:56:35.943: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 16:56:40.656: Failed to load module "appmenu-gtk-module"
+1593856601535	Marionette	INFO	Listening on port 36473
+1593856601634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593856841066	Marionette	INFO	Stopped listening on port 36473
+1593856962771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley266Aj"
+Gtk-Message: 17:02:42.856: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:02:49.313: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:02:49.885: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:02:54.794: Failed to load module "appmenu-gtk-module"
+1593856975923	Marionette	INFO	Listening on port 41961
+1593856975969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+Gtk-Message: 17:05:53.767: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:05:57.306: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:06:03.072: Failed to load module "appmenu-gtk-module"
+1593857165680	Marionette	INFO	Stopped listening on port 41961
+1593857539194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexpf1NX"
+Gtk-Message: 17:12:19.281: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:12:25.769: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:12:26.304: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 17:12:31.429: Failed to load module "appmenu-gtk-module"
+1593857552695	Marionette	INFO	Listening on port 36291
+1593857552834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1593857710117	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://tpc.googlesyndication.com/sodar/5k7CCto5.html, line 35: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593858842940	Marionette	INFO	Stopped listening on port 36291
