@@ -5,3 +5,559 @@ Gtk-Message: 19:35:43.453: Failed to load module "appmenu-gtk-module"
 Gtk-Message: 19:35:48.756: Failed to load module "appmenu-gtk-module"
 1593088550209	Marionette	INFO	Listening on port 45807
 1593088550322	Marionette	WARN	TLS certificate errors will be ignored for this session
+Gtk-Message: 19:39:50.199: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:39:52.284: Failed to load module "appmenu-gtk-module"
+1593088799355	Marionette	INFO	Stopped listening on port 45807
+1593089456661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIy5DmZ"
+Gtk-Message: 19:50:56.775: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:51:03.613: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:51:04.218: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:51:09.264: Failed to load module "appmenu-gtk-module"
+1593089470930	Marionette	INFO	Listening on port 41575
+1593089470988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593089679531	Marionette	INFO	Stopped listening on port 41575
+1593091196719	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDhgWXk"
+Gtk-Message: 20:19:56.801: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:20:03.645: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:20:04.881: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:20:11.044: Failed to load module "appmenu-gtk-module"
+1593091212064	Marionette	INFO	Listening on port 44889
+1593091212132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593091255805	Marionette	INFO	Stopped listening on port 44889
+1593091256471	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4K2q8"
+Gtk-Message: 20:20:56.575: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:21:03.276: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:21:03.953: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:21:09.363: Failed to load module "appmenu-gtk-module"
+1593091270364	Marionette	INFO	Listening on port 34699
+1593091270475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593091522190	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSlQIYH"
+Gtk-Message: 20:25:22.305: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:25:31.003: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:25:32.000: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:25:40.224: Failed to load module "appmenu-gtk-module"
+1593091541770	Marionette	INFO	Listening on port 42545
+1593091541931	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593091799673	Marionette	INFO	Stopped listening on port 42545
+1593091908536	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesQzSjI"
+Gtk-Message: 20:31:48.632: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:31:55.308: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:31:56.037: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:32:01.405: Failed to load module "appmenu-gtk-module"
+1593091922359	Marionette	INFO	Listening on port 46327
+1593091922459	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+console.warn: "IGNORED REDUX ACTION:" ({type:"MESSAGES_ADD", messages:[{id:"server0.conn0.netEvent275", actor:"server0.conn0.netEvent275", level:"log", isXHR:true, request:{url:"https://r3---sn-2uuxa3vh-wvbz.googlevideo.com/videoplayback?expire=1593113525&ei=Vaf0XqnwNISowgOx65aoDw&ip=180.242.99.121&id=o-AAl25UH-ZwcfbjPp1DDprmIMu-G1IQuG4IvsiypUyHoS&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mh=eh&mm=31%2C29&mn=sn-2uuxa3vh-wvbz%2Csn-npoeenez&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=262500&vprv=1&mime=video%2Fmp4&gir=yes&clen=7593406&otfp=1&dur=125.799&lmt=1592960854604223&mt=1593091839&fvip=4&keepalive=yes&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgM8Xx2Tb7de1VZ0mTxvucqLKT082tnItm0_s8Hzo4YgsCICwOeimtIPaJ78l4v0krrmd6ZKy1-RtXk_InqsR_GGo1&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMFQZGNIzDAJ1kZVldi6Pd94a6OLb4lGFFLEkqu4soeDAiBG0waFLuBJ_QzYgzVZ1QEig7LHaQIDKOw7OnG2jzWy9g%3D%3D&alr=yes&cpn=b3DeBDj0rndNHutD&cver=2.20200624.03.00&range=2993411-3312557&rn=29&rbuf=48000", method:"GET", headersSize:1266}, response:{}, source:"network", type:"log", groupId:null, timeStamp:1593092053881, totalTime:(void 0), indent:0, updates:["requestHeaders", "requestCookies"], openedOnce:false, securityState:(void 0), securityInfo:null, requestHeadersFromUploadStream:null, private:false, url:"https://r3---sn-2uuxa3vh-wvbz.googlevideo.com/videoplayback?expire=1593113525&ei=Vaf0XqnwNISowgOx65aoDw&ip=180.242.99.121&id=o-AAl25UH-ZwcfbjPp1DDprmIMu-G1IQuG4IvsiypUyHoS&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mh=eh&mm=31%2C29&mn=sn-2uuxa3vh-wvbz%2Csn-npoeenez&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=262500&vprv=1&mime=video%2Fmp4&gir=yes&clen=7593406&otfp=1&dur=125.799&lmt=1592960854604223&mt=1593091839&fvip=4&keepalive=yes&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgM8Xx2Tb7de1VZ0mTxvucqLKT082tnItm0_s8Hzo4YgsCICwOeimtIPaJ78l4v0krrmd6ZKy1-RtXk_InqsR_GGo1&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMFQZGNIzDAJ1kZVldi6Pd94a6OLb4lGFFLEkqu4soeDAiBG0waFLuBJ_QzYgzVZ1QEig7LHaQIDKOw7OnG2jzWy9g%3D%3D&alr=yes&cpn=b3DeBDj0rndNHutD&cver=2.20200624.03.00&range=2993411-3312557&rn=29&rbuf=48000", urlDetails:{baseNameWithQuery:"videoplayback?expire=1593113525&ei=Vaf0XqnwNISowgOx65aoDw&ip=180.242.99.121&id=o-AAl25UH-ZwcfbjPp1DDprmIMu-G1IQuG4IvsiypUyHoS&itag=134&aitags=133,134,135,136,160,242,243,244,247,278&source=youtube&requiressl=yes&mh=eh&mm=31,29&mn=sn-2uuxa3vh-wvbz,sn-npoeenez&ms=au,rdu&mv=m&mvi=2&pl=20&initcwndbps=262500&vprv=1&mime=video/mp4&gir=yes&clen=7593406&otfp=1&dur=125.799&lmt=1592960854604223&mt=1593091839&fvip=4&keepalive=yes&c=WEB&txp=6216222&sparams=expire,ei,ip,id,aitags,source,requiressl,vprv,mime,gir,clen,otfp,dur,lmt&sig=AOq0QJ8wRAIgM8Xx2Tb7de1VZ0mTxvucqLKT082tnItm0_s8Hzo4YgsCICwOeimtIPaJ78l4v0krrmd6ZKy1-RtXk_InqsR_GGo1&lsparams=mh,mm,mn,ms,mv,mvi,pl,initcwndbps&lsig=AG3C_xAwRQIhAMFQZGNIzDAJ1kZVldi6Pd94a6OLb4lGFFLEkqu4soeDAiBG0waFLuBJ_QzYgzVZ1QEig7LHaQIDKOw7OnG2jzWy9g==&alr=yes&cpn=b3DeBDj0rndNHutD&cver=2.20200624.03.00&range=2993411-3312557&rn=29&rbuf=48000", host:"r3---sn-2uuxa3vh-wvbz.googlevideo.com", scheme:"https", unicodeUrl:"https://r3---sn-2uuxa3vh-wvbz.googlevideo.com/videoplayback?expire=1593113525&ei=Vaf0XqnwNISowgOx65aoDw&ip=180.242.99.121&id=o-AAl25UH-ZwcfbjPp1DDprmIMu-G1IQuG4IvsiypUyHoS&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mh=eh&mm=31%2C29&mn=sn-2uuxa3vh-wvbz%2Csn-npoeenez&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=262500&vprv=1&mime=video%2Fmp4&gir=yes&clen=7593406&otfp=1&dur=125.799&lmt=1592960854604223&mt=1593091839&fvip=4&keepalive=yes&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgM8Xx2Tb7de1VZ0mTxvucqLKT082tnItm0_s8Hzo4YgsCICwOeimtIPaJ78l4v0krrmd6ZKy1-RtXk_InqsR_GGo1&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMFQZGNIzDAJ1kZVldi6Pd94a6OLb4lGFFLEkqu4soeDAiBG0waFLuBJ_QzYgzVZ1QEig7LHaQIDKOw7OnG2jzWy9g%3D%3D&alr=yes&cpn=b3DeBDj0rndNHutD&cver=2.20200624.03.00&range=2993411-3312557&rn=29&rbuf=48000", isLocal:null, url:"https://r3---sn-2uuxa3vh-wvbz.googlevideo.com/videoplayback?expire=1593113525&ei=Vaf0XqnwNISowgOx65aoDw&ip=180.242.99.121&id=o-AAl25UH-ZwcfbjPp1DDprmIMu-G1IQuG4IvsiypUyHoS&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mh=eh&mm=31%2C29&mn=sn-2uuxa3vh-wvbz%2Csn-npoeenez&ms=au%2Crdu&mv=m&mvi=2&pl=20&initcwndbps=262500&vprv=1&mime=video%2Fmp4&gir=yes&clen=7593406&otfp=1&dur=125.799&lmt=1592960854604223&mt=1593091839&fvip=4&keepalive=yes&c=WEB&txp=6216222&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cotfp%2Cdur%2Clmt&sig=AOq0QJ8wRAIgM8Xx2Tb7de1VZ0mTxvucqLKT082tnItm0_s8Hzo4YgsCICwOeimtIPaJ78l4v0krrmd6ZKy1-RtXk_InqsR_GGo1&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMFQZGNIzDAJ1kZVldi6Pd94a6OLb4lGFFLEkqu4soeDAiBG0waFLuBJ_QzYgzVZ1QEig7LHaQIDKOw7OnG2jzWy9g%3D%3D&alr=yes&cpn=b3DeBDj0rndNHutD&cver=2.20200624.03.00&range=2993411-3312557&rn=29&rbuf=48000"}, method:"GET", cause:{type:"xhr", loadingDocumentUri:"https://www.youtube.com/watch?v=Z_G_BpPzGIE&feature=youtu.be", lastFrame:{filename:"https://www.youtube.com/s/player/5cc7c83f/player_ias.vflset/en_US/base.js", lineNumber:2131, columnNumber:89, functionName:"yD", asyncCause:null}, stacktraceAvailable:true}, chromeContext:(void 0)}]})
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+1593092247711	Marionette	INFO	Stopped listening on port 34699
+1593092508404	Marionette	INFO	Stopped listening on port 46327
+1593092550714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6CLoe7"
+Gtk-Message: 20:42:30.802: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:42:37.363: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:42:37.990: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:42:42.789: Failed to load module "appmenu-gtk-module"
+1593092564653	Marionette	INFO	Listening on port 36137
+1593092564745	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593092685427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1kVUrU"
+Gtk-Message: 20:44:45.515: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:44:52.088: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:44:52.727: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:44:58.839: Failed to load module "appmenu-gtk-module"
+1593092700155	Marionette	INFO	Listening on port 39995
+1593092700289	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593092873491	Marionette	INFO	Stopped listening on port 36137
+1593092883125	Marionette	INFO	Stopped listening on port 39995
+1593092958073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCWHPjk"
+Gtk-Message: 20:49:18.161: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:49:24.569: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:49:25.157: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:49:29.952: Failed to load module "appmenu-gtk-module"
+1593092971325	Marionette	INFO	Listening on port 34475
+1593092971369	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+Gtk-Message: 20:53:09.831: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:53:13.227: Failed to load module "appmenu-gtk-module"
+1593093287836	Marionette	INFO	Stopped listening on port 34475
+1593093332069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilechE2ia"
+Gtk-Message: 20:55:32.153: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:55:38.714: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:55:39.380: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:55:44.568: Failed to load module "appmenu-gtk-module"
+1593093345651	Marionette	INFO	Listening on port 45567
+1593093345720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593093437110	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593093573514	Marionette	INFO	Stopped listening on port 45567
+1593094589159	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekSIzRl"
+Gtk-Message: 21:16:29.254: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:16:35.755: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:16:36.315: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:16:41.416: Failed to load module "appmenu-gtk-module"
+1593094603152	Marionette	INFO	Listening on port 39647
+1593094603203	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593094603218	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"67.60.137.219:35979","httpProxy":"67.60.137.219:35979","sslProxy":"67.60.137.219:35979"}
+Gtk-Message: 21:19:58.169: Failed to load module "appmenu-gtk-module"
+1593094801782	Marionette	INFO	Stopped listening on port 39647
+1593095231361	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepYPIt1"
+Gtk-Message: 21:27:11.448: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:27:18.095: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:27:18.744: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:27:24.825: Failed to load module "appmenu-gtk-module"
+1593095246514	Marionette	INFO	Listening on port 39631
+1593095246614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593095246634	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"45.15.16.206:8118","httpProxy":"45.15.16.206:8118","sslProxy":"45.15.16.206:8118"}
+1593095332551	Marionette	INFO	Stopped listening on port 39631
+1593257597097	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRqDs0N"
+Gtk-Message: 18:33:17.206: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:33:25.200: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:33:25.831: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:33:31.543: Failed to load module "appmenu-gtk-module"
+1593257612630	Marionette	INFO	Listening on port 40321
+1593257612727	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "controls".
+1593258070724	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqDffXv"
+Gtk-Message: 18:41:10.837: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:41:17.961: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:41:18.613: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:41:24.026: Failed to load module "appmenu-gtk-module"
+1593258085016	Marionette	INFO	Listening on port 38741
+1593258085133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593258505905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIcgLc6"
+Gtk-Message: 18:48:25.996: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:48:32.507: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:48:33.076: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:48:38.147: Failed to load module "appmenu-gtk-module"
+1593258519150	Marionette	INFO	Listening on port 36575
+1593258519235	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593258676075	Marionette	INFO	Stopped listening on port 36575
+1593258693223	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB3Pe7m"
+Gtk-Message: 18:51:33.321: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:51:39.732: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:51:40.359: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 18:51:45.448: Failed to load module "appmenu-gtk-module"
+1593258706425	Marionette	INFO	Listening on port 41879
+1593258706520	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "onion".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "onion".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "search_impl".
+JavaScript error: https://maps.googleapis.com/maps/api/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_US&callback=onApiLoad, line 100: Error: Could not load "search_impl".
+Gtk-Message: 18:54:33.031: Failed to load module "appmenu-gtk-module"
+1593258875827	Marionette	INFO	Stopped listening on port 41879
+1593259336306	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9LMLss"
+Gtk-Message: 19:02:16.393: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:02:22.877: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:02:23.553: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:02:28.528: Failed to load module "appmenu-gtk-module"
+1593259349767	Marionette	INFO	Listening on port 40569
+1593259349847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593259470713	Marionette	INFO	Stopped listening on port 40569
+1593259485786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWyro9Q"
+Gtk-Message: 19:04:45.873: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:04:52.301: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:04:53.026: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:04:57.927: Failed to load module "appmenu-gtk-module"
+1593259498939	Marionette	INFO	Listening on port 33601
+1593259499025	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1960: TypeError: currentPanel is undefined
+1593259652470	Marionette	INFO	Stopped listening on port 33601
+1593259720861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3qRXnf"
+Gtk-Message: 19:08:40.943: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:08:47.276: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:08:47.841: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:08:52.632: Failed to load module "appmenu-gtk-module"
+1593259734111	Marionette	INFO	Listening on port 43735
+1593259734191	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593259927526	Marionette	INFO	Stopped listening on port 43735
+1593259929506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelMFSBC"
+Gtk-Message: 19:12:09.597: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:12:15.984: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:12:16.513: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:12:21.329: Failed to load module "appmenu-gtk-module"
+1593259942969	Marionette	INFO	Listening on port 42429
+1593259943006	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593259996275	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593260030805	Marionette	INFO	Stopped listening on port 42429
+1593260032243	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecK8fiN"
+Gtk-Message: 19:13:52.329: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:13:58.680: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:13:59.329: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 19:14:04.723: Failed to load module "appmenu-gtk-module"
+1593260045685	Marionette	INFO	Listening on port 43283
+1593260045757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593260102440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593260365504	Marionette	INFO	Stopped listening on port 43283
+1593270990807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSnTr94"
+Gtk-Message: 22:16:30.906: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:16:37.471: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:16:38.021: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:16:43.101: Failed to load module "appmenu-gtk-module"
+1593271004007	Marionette	INFO	Listening on port 39119
+1593271004081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1593271133756	Marionette	INFO	Stopped listening on port 39119
+1593306164780	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoWgLdk"
+Gtk-Message: 08:02:44.877: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:02:51.300: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:02:51.969: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:02:56.846: Failed to load module "appmenu-gtk-module"
+1593306178266	Marionette	INFO	Listening on port 35191
+1593306178376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.google.com/intl/en/ipv6/js/statistics.js, line 112: TypeError: v6stats.listenForTabSelect is not a function
+JavaScript error: https://www.google.com/intl/en/ipv6/js/statistics.js, line 145: ReferenceError: googleIPv6PerCountryData is not defined
+Gtk-Message: 08:03:45.037: Failed to load module "appmenu-gtk-module"
+1593306230826	Marionette	INFO	Stopped listening on port 35191
+1593790973210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAROnEd"
+Gtk-Message: 22:42:53.418: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:43:00.627: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:43:01.263: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 22:43:06.030: Failed to load module "appmenu-gtk-module"
+1593790987409	Marionette	INFO	Listening on port 43345
+1593790987502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d5fb8c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: https://www.youtube.com/s/player/54668ca9/player_ias.vflset/en_US/base.js, line 6628: TypeError: this.C.element.offsetParent is null
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d66d5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+[Child 2903, MediaDecoderStateMachine #1] WARNING: Decoder=7f05d66d5400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Y_mEAF/firefox-78.0.1+build1/dom/media/MediaDecoderStateMachine.cpp, line 3470
+Gtk-Message: 06:13:51.297: Failed to load module "appmenu-gtk-module"
+1593818034702	Marionette	INFO	Stopped listening on port 43345
+1593819154561	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecNujHT"
+Gtk-Message: 06:32:34.660: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 06:32:42.895: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 06:32:43.757: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 06:32:49.572: Failed to load module "appmenu-gtk-module"
+1593819170540	Marionette	INFO	Listening on port 37033
+1593819170601	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+Gtk-Message: 06:38:32.778: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://mail.google.com/mail/u/0/, line 96: Error: G
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1092: uncaught exception: CustomError: Error in protected function: Vi
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1092: uncaught exception: CustomError: Error in protected function: Vi
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1092: uncaught exception: CustomError: Error in protected function: Vi
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1092: uncaught exception: CustomError: Error in protected function: Vi
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1092: uncaught exception: CustomError: Error in protected function: Vi
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1092: uncaught exception: CustomError: Error in protected function: Vi
+Gtk-Message: 06:42:17.325: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://mail.google.com/_/scs/mail-static/_/js/k=gmail.main.en_GB.KlzJRTtI2Tc.O/am=1-v_S3hAwBeBPzsjoAEAjOfAqVRp3_COKGXT_4JjAn2PycNwiAMPQP-D6AMAAAAAAAAAAAAAAAAAAIB9IINK/d=1/im=1/dg=0/ct=zgms/rs=AHGWq9BAAAyAmVTjg3jlPyu78IMDFovZPQ/m=b, line 1093: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/yts/jsbin/spf-vflAy7LrU/spf.js, line 22: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://www.youtube.com/s/player/54668ca9/player_ias.vflset/en_US/base.js, line 5826: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+Gtk-Message: 06:46:56.776: Failed to load module "appmenu-gtk-module"
+1593820027290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexxkcyT"
+Gtk-Message: 06:47:07.381: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 06:47:14.250: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 06:47:14.845: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 06:47:20.394: Failed to load module "appmenu-gtk-module"
+1593820042830	Marionette	INFO	Listening on port 37797
+1593820042947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593820052511	Marionette	INFO	Stopped listening on port 37033
+JavaScript error: https://www.youtube.com/yts/jsbin/spf-vflAy7LrU/spf.js, line 22: NS_ERROR_NOT_INITIALIZED: 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1593820209665	Marionette	INFO	Stopped listening on port 37797
+1593825341960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2aOMUt"
+Gtk-Message: 08:15:42.064: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:15:50.843: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:15:51.581: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 08:15:59.951: Failed to load module "appmenu-gtk-module"
+1593825361507	Marionette	INFO	Listening on port 36849
+1593825361928	Marionette	WARN	TLS certificate errors will be ignored for this session
