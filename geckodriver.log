@@ -985,3 +985,47 @@ IPDL protocol error: Handler returned error code!
 ###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
 
 1593858842940	Marionette	INFO	Stopped listening on port 36291
+1593868001082	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIjlZsO"
+Gtk-Message: 20:06:41.179: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:06:49.881: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:06:51.088: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:06:58.425: Failed to load module "appmenu-gtk-module"
+1593868020150	Marionette	INFO	Listening on port 34627
+1593868020765	Marionette	WARN	TLS certificate errors will be ignored for this session
+1593868330908	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepFnx3F"
+Gtk-Message: 20:12:11.002: Failed to load module "appmenu-gtk-module"
+1593868336334	Marionette	INFO	Stopped listening on port 34627
+Gtk-Message: 20:12:19.729: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:12:20.505: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:12:26.264: Failed to load module "appmenu-gtk-module"
+1593868348031	Marionette	INFO	Listening on port 44007
+1593868348081	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593868609437	Marionette	INFO	Stopped listening on port 44007
+1593868716927	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDKUzkE"
+Gtk-Message: 20:18:37.034: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:18:44.819: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:18:45.953: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:18:53.304: Failed to load module "appmenu-gtk-module"
+1593868733960	Marionette	INFO	Listening on port 44471
+1593868734067	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1593869087508	Marionette	INFO	Stopped listening on port 44471
+1593869092145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemiW4JX"
+Gtk-Message: 20:24:52.251: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:24:59.535: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:25:00.362: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 20:25:06.286: Failed to load module "appmenu-gtk-module"
+1593869107983	Marionette	INFO	Listening on port 38625
+1593869108056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 208: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 174: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 208}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1593869666009	Marionette	INFO	Stopped listening on port 38625

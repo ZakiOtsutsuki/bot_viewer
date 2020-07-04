@@ -17,7 +17,7 @@ def login(t):
     google_button = browser.find_elements_by_xpath("/html/body/div[4]/div[2]/div/div[2]/button[1]")[0]
     google_button.click()
     time.sleep(t)
-    acount_name = browser.find_elements_by_id("identifierId")[0]
+    acount_name = browser.find_elements_by_name("identifier")[0]
     acount_name.send_keys("naruto1745uzumaki")
     acount_name.send_keys(Keys.ENTER)
     time.sleep(t)
@@ -31,7 +31,6 @@ def video(link, t):
     play_button = browser.find_elements_by_xpath("/html/body/ytd-app/div/ytd-page-manager/ytd-watch-flexy/div[4]/div[1]/div/div[1]/div/div/div/ytd-player/div/div/div[23]/div[2]/div[1]/button")[0]
     play_button.click()
     time.sleep(t)
-    count = count + 1
 
 login(5)
 
@@ -39,3 +38,4 @@ while count < 50:
     video("https://youtu.be/Z_G_BpPzGIE", 130)
     video("https://www.youtube.com/watch?v=VLpFgay9ZWY", 135)
     video("https://www.youtube.com/watch?v=UFwQZ7od4tY", 200)
+    count = count + 1
