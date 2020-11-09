@@ -1,16 +1,16 @@
-#Version 1.2
+#Version 1.3
 #need to add proxy
 
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 import time
 
 options = FirefoxOptions()
 options.add_argument("--headless")
-browser = webdriver.Firefox(options=options)
-count = 0
+profile = webdriver.FirefoxProfile()
+profile.set_preference("media.volume_scale", "0.0")
+browser = webdriver.Firefox(options=options, firefox_profile=profile)
 
 def login(t):
     browser.get("https://stackoverflow.com/")
@@ -36,12 +36,13 @@ def video(link, t):
     time.sleep(t)
 
 login(5)
+count = 0
 
 while count < 1:
     video("https://youtu.be/Z_G_BpPzGIE", 130)
-    video("https://www.youtube.com/watch?v=VLpFgay9ZWY", 135)
-    video("https://www.youtube.com/watch?v=UFwQZ7od4tY", 200)
-    video("https://youtu.be/pE2j1W_QO0A", 860)
+    #video("https://www.youtube.com/watch?v=VLpFgay9ZWY", 135)
+    #video("https://www.youtube.com/watch?v=UFwQZ7od4tY", 200)
+    #video("https://youtu.be/pE2j1W_QO0A", 860)
     count = count + 1
 
 browser.close()
