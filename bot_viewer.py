@@ -1,12 +1,15 @@
-#Version 1.1
+#Version 1.2
 #need to add proxy
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
 import time
 
-browser = webdriver.Firefox()
+options = FirefoxOptions()
+options.add_argument("--headless")
+browser = webdriver.Firefox(options=options)
 count = 0
 
 def login(t):
