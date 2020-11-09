@@ -3,6 +3,7 @@
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.common.keys import Keys
 import time
 
 browser = webdriver.Firefox()
@@ -28,14 +29,16 @@ def login(t):
 
 def video(link, t):
     browser.get(link)
-    play_button = browser.find_elements_by_xpath("/html/body/ytd-app/div/ytd-page-manager/ytd-watch-flexy/div[4]/div[1]/div/div[1]/div/div/div/ytd-player/div/div/div[23]/div[2]/div[1]/button")[0]
-    play_button.click()
+    webdriver.ActionChains(browser).key_down(Keys.SPACE).perform()
     time.sleep(t)
 
 login(5)
 
-while count < 50:
+while count < 1:
     video("https://youtu.be/Z_G_BpPzGIE", 130)
     video("https://www.youtube.com/watch?v=VLpFgay9ZWY", 135)
     video("https://www.youtube.com/watch?v=UFwQZ7od4tY", 200)
+    video("https://youtu.be/pE2j1W_QO0A", 860)
     count = count + 1
+
+browser.close()
