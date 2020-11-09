@@ -40,9 +40,9 @@ count = 0
 
 while count < 1:
     video("https://youtu.be/Z_G_BpPzGIE", 130)
-    #video("https://www.youtube.com/watch?v=VLpFgay9ZWY", 135)
-    #video("https://www.youtube.com/watch?v=UFwQZ7od4tY", 200)
-    #video("https://youtu.be/pE2j1W_QO0A", 860)
+    video("https://www.youtube.com/watch?v=VLpFgay9ZWY", 135)
+    video("https://www.youtube.com/watch?v=UFwQZ7od4tY", 200)
+    video("https://youtu.be/pE2j1W_QO0A", 860)
     count = count + 1
 
 browser.close()
